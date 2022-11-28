@@ -3,8 +3,8 @@ import { BsThreeDots, BsFillPlayFill, BsPauseFill, BsMusicNoteBeamed, BsDot, BsM
 import { CiRepeat, CiShuffle } from 'react-icons/ci'
 import { FiSearch } from 'react-icons/fi'
 import { HiOutlineChartPie, HiArrowNarrowLeft, HiArrowNarrowRight } from 'react-icons/hi'
-import { MdOutlineLibraryMusic, MdOutlineFeed, MdSkipNext, MdSkipPrevious } from 'react-icons/md'
-import { TbChartArcs, TbRepeatOnce } from 'react-icons/tb'
+import { MdOutlineLibraryMusic, MdOutlineFeed, MdSkipNext, MdSkipPrevious, MdWifiTethering, MdMultilineChart } from 'react-icons/md'
+import { TbChartArcs, TbRepeatOnce, TbBan } from 'react-icons/tb'
 import { SlVolumeOff, SlVolume2, SlVolume1 } from 'react-icons/sl'
 
 const icons = {
@@ -28,8 +28,11 @@ const icons = {
     MdOutlineFeed,
     MdSkipNext,
     MdSkipPrevious,
+    MdMultilineChart,
+    MdWifiTethering,
     TbChartArcs ,
     TbRepeatOnce,
+    TbBan,
     SlVolumeOff,
     SlVolume2,
     SlVolume1
