@@ -1,6 +1,7 @@
-import { AiOutlineArrowLeft, AiOutlineArrowRight, AiFillHeart, AiOutlineHeart } from 'react-icons/ai'
-import { BsThreeDots, BsFillPlayFill, BsPauseFill, BsMusicNoteBeamed, BsDot, BsMusicNoteList } from 'react-icons/bs'
+import { AiOutlineArrowLeft, AiOutlineArrowRight, AiFillHeart, AiOutlineHeart, AiOutlineSearch } from 'react-icons/ai'
+import { BsThreeDots, BsFillPlayFill, BsPauseFill, BsMusicNoteBeamed, BsDot, BsMusicNoteList, BsSearch } from 'react-icons/bs'
 import { CiRepeat, CiShuffle } from 'react-icons/ci'
+import { IoSearchOutline } from "react-icons/io5";
 import { FiSearch } from 'react-icons/fi'
 import { HiOutlineChartPie, HiArrowNarrowLeft, HiArrowNarrowRight } from 'react-icons/hi'
 import { MdOutlineLibraryMusic, MdOutlineFeed, MdSkipNext, MdSkipPrevious, MdWifiTethering, MdMultilineChart } from 'react-icons/md'
@@ -12,14 +13,17 @@ const icons = {
     AiOutlineArrowRight,
     AiFillHeart,
     AiOutlineHeart,
+    AiOutlineSearch,
     BsThreeDots,
     BsFillPlayFill,
     BsPauseFill,
     BsMusicNoteBeamed,
     BsDot,
+    BsSearch,
     BsMusicNoteList,
     CiRepeat,
     CiShuffle,
+    IoSearchOutline,
     FiSearch,
     HiOutlineChartPie,
     HiArrowNarrowLeft,
